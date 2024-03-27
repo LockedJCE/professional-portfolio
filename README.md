@@ -7,9 +7,7 @@ My motivation for this project was to apply my newly learned CSS and HTML skills
 ## Installation/Usage
 
 There is no need to install my project as it is just a webpage but to access it simply look under the deployments tab and click on my github page. This is a screenshot of what the page should look like upon accessing.
-```md
-    ![alt text](assets\proport.png)
-    ```
+![Photo of Web Page](assets\proport.png)
 
 ##License 
 
